@@ -2,8 +2,10 @@ body {
     color: rgb(255, 255, 255);
     background: rgb(29, 28, 28);
     margin: 0px;
-    font-family: "Chakra Petch", sans-serif;
+   font-family: "Chakra Petch", sans-serif;
+  margin-bottom: 100px; 
 }
+
 
 header {
     border-bottom: solid 2px rgb(252, 252, 246);
@@ -53,5 +55,7 @@ p {
         border: 5px solid rgb(232, 238, 232);
     }
     
-
+   .categoria h2  {
+    color: rgb(236, 238, 245);
+   }
  
